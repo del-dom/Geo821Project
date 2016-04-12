@@ -1,8 +1,1 @@
-#map {
-    height: 99vh;
-    width: 99vw;
-    overflow: hidden;
-}
-b {
-    font-weight: 900;
-}
+#map { height: 100vh; } b{font-weight: 900;}
